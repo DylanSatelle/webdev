@@ -76,4 +76,11 @@ h3 {
 
 .column {
     width: 50%;
+    text-align: center;
+    justify-content: center;
+}
+
+.columnPic {
+    justify-content:flex-end;
+    display: flex;
 }
